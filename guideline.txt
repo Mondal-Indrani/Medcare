@@ -1,0 +1,7 @@
+1. Dowload Xampp sever(version - 7.4.28)...(https://www.apachefriends.org/download.html)
+2.Install and turn on mysql and apache from xampp
+3.extract Zip file 
+4.create a database name project... import the sql file from the sql folder
+5.open any browser ---> localhost/project...
+
+6. Enjoy @^^@
